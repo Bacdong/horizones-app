@@ -1,6 +1,6 @@
 # Horizons App
 
-A new Flutter project.
+Welcome to the introductory sliver workshop for Flutter! 👋
 
 ## Getting Started
 
