@@ -1,4 +1,4 @@
-# horizons_app
+# Horizons App
 
 A new Flutter project.
 
